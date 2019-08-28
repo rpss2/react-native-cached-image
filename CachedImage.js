@@ -16,10 +16,11 @@ const {
     View,
     ImageBackground,
     ActivityIndicator,
-    NetInfo,
     Platform,
     StyleSheet,
 } = ReactNative;
+
+import NetInfo from "@react-native-community/react-native-netinfo";
 
 const styles = StyleSheet.create({
     image: {
