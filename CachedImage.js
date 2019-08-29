@@ -20,7 +20,7 @@ const {
     StyleSheet,
 } = ReactNative;
 
-import NetInfo from "@react-native-community/react-native-netinfo";
+import NetInfo from "@react-native-community/netinfo";
 
 const styles = StyleSheet.create({
     image: {
